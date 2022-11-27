@@ -1,1 +1,2 @@
 my name is aman singh.
+it is my new rerpositorty addition in git 
